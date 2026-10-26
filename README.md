@@ -1,0 +1,1 @@
+# squishling-claude-code-adapter
